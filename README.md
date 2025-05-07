@@ -8,4 +8,4 @@ Adithya B Raj,
 Alen M Alex,
 Ashin Cherian Chacko,
 Bristin K Thomas,
-Yedhukrishnan N
+Yadhukrishnan N
